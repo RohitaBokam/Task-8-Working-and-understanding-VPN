@@ -102,7 +102,7 @@ This project explores the use of **Virtual Private Networks (VPNs)** to secure o
 
 ## 📄 Report
 
-The complete detailed report for this project is available in [`VPN_Report(1).docx`](VPN_Report(1).docx or as a downloadable PDF in the `docs/` folder.
+The complete detailed report for this project is available in [`VPN_Report(1).docx`](VPN_Report(1).docx) or as a downloadable PDF in the `docx/` folder.
 
 ---
 
